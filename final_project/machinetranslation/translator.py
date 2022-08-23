@@ -8,3 +8,7 @@ load_dotenv()
 
 apikey = os.environ['apikey']
 url = os.environ['url']
+
+def englishToFrench(englishText):
+    #write the code here
+    return frenchText
